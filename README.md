@@ -3,4 +3,4 @@
 
 A simple CLI Snake written in F#
 
-![Snake.fs]("snake.gif")
+![Snake.fs](./snake.gif)
